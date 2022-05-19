@@ -22,12 +22,6 @@ use_git_config(
 )
 ```
 4. Introduce your computer to GitHub.
-```{r}
-usethis::create_github_token()
-gitcreds::gitcreds_set()
-? Enter password or token: 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
-? Enter password or token:
-```
 
 5. Create a Git repo for Short Lab 4 and clone it to your computer. 
 
@@ -39,7 +33,7 @@ gitcreds::gitcreds_set()
 
 Please type only the link to your repository using the template below. Fill in both the square brackets `[]` and the parentheses `()` with your link.
 
-[YOUR LINK HERE](YOUR LINK HERE)
+[short lab 4](https://github.com/RlDlD/Stat_302_short_lab_4.git)
 
 Here's a checklist of what we should see at the link above:
 
